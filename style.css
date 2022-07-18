@@ -1,0 +1,86 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.orange-color{
+    color: orange;
+}
+h1 {font-size:50px;
+}
+.firstimg{
+height:60%;
+}
+
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+width: 50%;
+padding-left:5%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight:700;
+}
+.background{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.second{
+    width: 50%;
+}
+.second img{
+    width: 75%;
+    margin-left: 50px;
+}
+.second a{
+    text-decoration: none;
+    font-weight: 700;
+    background-image: linear-gradient(orange,tomato);
+    border-radius: 10px;
+    color: white;
+    padding: 10px 55px;
+}
+.dream{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+
+section h3{
+    color: orange;
+}
+
+.backgroud3{
+background-image: url(images/exp-bg.png);
+background-repeat: no-repeat;
+
+}
+.flexible-container{
+    display: flex;
+}
+.full{
+    box-shadow: 10px 10px 10px black;
+    width:40%
+    margin-right:5%
+    margin-left:5%
+    padding-left:20px;
+    border-left:10px solid orange;
+}
+.baby{
+    box-shadow: 10px 10px 10px black;
+    width:40%
+    margin-right:5%
+    margin-left:5%
+    padding-left:20px;
+    border-left:10px solid blue;
+}
+footer{
+    text-align: center;
+}
